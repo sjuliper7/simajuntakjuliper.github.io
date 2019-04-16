@@ -1,0 +1,17 @@
+{
+  "name": "Favorite Team Bundesliga",
+  "short_name": "Fav BLiga",
+  "description": "Informasi Sepak Bola Jerman",
+  "gcm_sender_id": "497409343218",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
